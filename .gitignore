@@ -1,2 +1,2 @@
 #intellij
-~/study_java/.idea
+.idea/**/*.xml
