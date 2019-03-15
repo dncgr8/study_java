@@ -7,7 +7,7 @@ public class FunctionTest {
 
     public static void main(String[] args) {
        IntBinaryOperator func =  FunctionTest::sub;
-
+        //lambda
        int a= func.applyAsInt (5,3);
         System.out.println ("5-3="+a);
     }
