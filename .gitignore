@@ -1,3 +1,7 @@
+
+
+
 #intellij
+.metadata/**
 .idea/**/workspace.xml
 .idea/**/**.xml
